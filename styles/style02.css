@@ -1,0 +1,24 @@
+#heading{
+    color: coral;
+    background-color: cornflowerblue;
+    border: 10px solid olivedrab;
+}
+
+/* Header Section Style */
+
+nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+}
+nav a{
+    margin-right: 2em;
+    background-color: black;
+    color: white;
+    padding: 1.3em;
+}
+h1{
+    text-align: center;
+    color: tomato;
+    font-size: 3em;
+}
